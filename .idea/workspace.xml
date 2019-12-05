@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea5ab712-0ea2-49f4-b223-de6b042860a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/test/applycard/TC_AC_03.applycard.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/applycard/TC_AC_03.applycard.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/applycardrandomly/TC_AC_04.applycardrandomly.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/applycardrandomly/TC_AC_04.applycardrandomly.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/diffcategoryapplycard/TC_AC_05.diffcategoryapplycards.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/diffcategoryapplycard/TC_AC_05.diffcategoryapplycards.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/diffcategorycards/TC_AC_06.diffcategorycards.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/diffcategorycards/TC_AC_06.diffcategorycards.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/helpers/common/applycard.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/helpers/common/applycard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/networktest/TC_NW_02.network.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/networktest/TC_NW_02.network.test.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="karmaReactNativeUITesting" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Qjo01TUCPrBjTBJA8LRA4dvbMQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowPython Console.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\KarmaNewRepo\karmaReactNativeUITesting" />
+      <recent name="F:\KarmaNewRepo\karmaReactNativeUITesting\test\networkTest" />
+      <recent name="F:\KarmaNewRepo\karmaReactNativeUITesting\test\login" />
+      <recent name="F:\KarmaNewRepo\karmaReactNativeUITesting\test\helpers\common" />
+      <recent name="F:\KarmaNewRepo\karmaReactNativeUITesting\test\helpers\common\elements" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\pocpayevernew\payeverUITesting" />
+      <recent name="F:\KarmaNewRepo\karmaReactNativeUITesting\test\helpers\apps" />
+      <recent name="F:\KarmaNewRepo\karmaReactNativeUITesting\test\helpers\common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea5ab712-0ea2-49f4-b223-de6b042860a2" name="Default Changelist" comment="" />
+      <created>1568293139304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568293139304</updated>
+      <workItem from="1568293149099" duration="865000" />
+      <workItem from="1568349464178" duration="26796000" />
+      <workItem from="1568608291164" duration="51161000" />
+      <workItem from="1568780804661" duration="28616000" />
+      <workItem from="1568866756271" duration="55902000" />
+      <workItem from="1569213225586" duration="30007000" />
+      <workItem from="1569298988670" duration="37028000" />
+      <workItem from="1569402179397" duration="12654000" />
+      <workItem from="1569472018479" duration="29134000" />
+      <workItem from="1569558752049" duration="5632000" />
+      <workItem from="1569565402249" duration="1367000" />
+      <workItem from="1569567515970" duration="54175000" />
+      <workItem from="1569818373349" duration="1931000" />
+      <workItem from="1569820982347" duration="23409000" />
+      <workItem from="1569905152097" duration="12043000" />
+      <workItem from="1569923594021" duration="9762000" />
+      <workItem from="1569991206723" duration="29825000" />
+      <workItem from="1570077049592" duration="28551000" />
+      <workItem from="1570162916586" duration="26984000" />
+      <workItem from="1570423384044" duration="1695000" />
+      <workItem from="1570425115373" duration="1803000" />
+      <workItem from="1570427080603" duration="1812000" />
+      <workItem from="1570428998134" duration="1775000" />
+      <workItem from="1570431106444" duration="1459000" />
+      <workItem from="1570769720894" duration="265000" />
+      <workItem from="1570781257496" duration="1243000" />
+      <workItem from="1570791643897" duration="1788000" />
+      <workItem from="1570793461090" duration="1738000" />
+      <workItem from="1571119470875" duration="1464000" />
+      <workItem from="1571129499661" duration="1785000" />
+      <workItem from="1571131692530" duration="1795000" />
+      <workItem from="1571144700100" duration="1782000" />
+      <workItem from="1571146511063" duration="315000" />
+      <workItem from="1571200409080" duration="1756000" />
+      <workItem from="1571202231282" duration="1817000" />
+      <workItem from="1571205608101" duration="2223000" />
+      <workItem from="1571208658375" duration="1777000" />
+      <workItem from="1571216678391" duration="1765000" />
+      <workItem from="1571220396656" duration="1821000" />
+      <workItem from="1571228565059" duration="1412000" />
+      <workItem from="1571289500789" duration="1761000" />
+      <workItem from="1571291322766" duration="1784000" />
+      <workItem from="1571293168516" duration="1588000" />
+      <workItem from="1571295018308" duration="1786000" />
+      <workItem from="1571299771784" duration="1706000" />
+      <workItem from="1571303234936" duration="1689000" />
+      <workItem from="1571305045929" duration="1786000" />
+      <workItem from="1571306860737" duration="1782000" />
+      <workItem from="1571308675936" duration="2106000" />
+      <workItem from="1571317676557" duration="1143000" />
+      <workItem from="1571373513705" duration="2000000" />
+      <workItem from="1571376153913" duration="1779000" />
+      <workItem from="1571377995807" duration="1616000" />
+      <workItem from="1571383269846" duration="1097000" />
+      <workItem from="1571391767058" duration="2046000" />
+      <workItem from="1571459809731" duration="599000" />
+      <workItem from="1571462226194" duration="1783000" />
+      <workItem from="1573443703995" duration="107000" />
+      <workItem from="1573443836277" duration="16328000" />
+      <workItem from="1573463652648" duration="92456000" />
+      <workItem from="1573735338470" duration="3016000" />
+      <workItem from="1573789876588" duration="25431000" />
+      <workItem from="1573822635638" duration="133000" />
+      <workItem from="1574048939163" duration="28945000" />
+      <workItem from="1574135271107" duration="28453000" />
+      <workItem from="1574221978641" duration="149000" />
+      <workItem from="1574222252394" duration="23943000" />
+      <workItem from="1574308312418" duration="24390000" />
+      <workItem from="1574394835578" duration="7145000" />
+      <workItem from="1574409714041" duration="3363000" />
+      <workItem from="1574655535797" duration="595000" />
+      <workItem from="1574676818631" duration="121000" />
+      <workItem from="1575435910383" duration="60000" />
+      <workItem from="1575439423394" duration="5020000" />
+      <workItem from="1575449974393" duration="14051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
